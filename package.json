@@ -1,0 +1,11 @@
+{
+  "name": "template13k",
+  "version": "0.0.1",
+  "private": false,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-tasks": "^0.6.0"
+  },
+  "dependencies": {
+  }
+}
